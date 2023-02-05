@@ -6,6 +6,10 @@ body{
     color: white;
 }
 h1{
+    color: rgb(218, 32, 32);
+    cursor: pointer;
+}
+h1:hover{
     color: goldenrod;
 }
 button{
